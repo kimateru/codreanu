@@ -57,18 +57,18 @@ const Education = () => {
       {/* Content */}
       <div 
         ref={contentRef}
-        className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24"
+        className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24"
       >
         {/* Intro */}
         <div ref={addToRefs} className="mb-12">
-          <p className="text-lg lg:text-xl leading-relaxed text-gray-800">
+          <p className="text-xl lg:text-2xl leading-relaxed text-gray-800">
             {t('education.intro')}
           </p>
         </div>
 
         {/* Courses Description */}
         <div ref={addToRefs} className="mb-12">
-          <p className="text-lg leading-relaxed text-gray-700">
+          <p className="text-lg lg:text-xl leading-relaxed text-gray-700">
             {t('education.coursesDescription')}
           </p>
         </div>
@@ -85,8 +85,8 @@ const Education = () => {
                 ref={addToRefs}
                 className="flex items-start gap-3 text-gray-700"
               >
-                <span className="text-black mt-1">•</span>
-                <span className="leading-relaxed">{feature}</span>
+                <span className="text-[#b8860b] mt-1">✦</span>
+                <span className="text-lg leading-relaxed">{feature}</span>
               </li>
             ))}
           </ul>
@@ -94,7 +94,7 @@ const Education = () => {
 
         {/* Closing Statement */}
         <div ref={addToRefs} className="mt-16 mb-12">
-          <p className="text-lg leading-relaxed text-gray-800 font-medium">
+          <p className="text-lg lg:text-xl leading-relaxed text-gray-800 font-medium">
             {t('education.closingStatement')}
           </p>
         </div>

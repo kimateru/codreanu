@@ -62,6 +62,46 @@
       "product6": "Șampon pentru curățare profundă"
     }
   },
+  "service": {
+    "title": "Servicii Premium",
+    "subtitle": "Health & Beauty Hair® by Cristina Codreanu",
+    "intro": "La Health & Beauty Hair®, fiecare serviciu este conceput ca o experiență exclusivă, unde sănătatea părului, inovația și estetica avansată se întâlnesc pentru rezultate vizibile și de durată.",
+    "service1": {
+      "title": "Îndreptare Inovativă Hair Evolution®",
+      "description": "Metodă exclusivă de îndreptare organică, realizată prin tehnologii avansate, adaptată tuturor tipurilor și texturilor de păr. Oferă netezire perfectă, disciplinare și strălucire, fără a compromite structura firului de păr."
+    },
+    "service2": {
+      "title": "Tratamente Avansate de Reconstrucție",
+      "description": "Protocoale premium dedicate refacerii profunde a firului de păr, acționând din interior spre exterior. Redau elasticitatea, rezistența și vitalitatea părului degradat, tratat chimic sau fragil."
+    },
+    "service3": {
+      "title": "Tricologie Estetică",
+      "description": "Servicii specializate de diagnostic și îngrijire a scalpului și firului de păr, bazate pe principii de tricologie estetică. Fiecare protocol este personalizat, pentru echilibru, sănătate și rezultate durabile."
+    },
+    "service4": {
+      "title": "Consultanță Personalizată Premium",
+      "description": "Evaluare profesională a structurii firului de păr și a scalpului, cu recomandări exclusive de tratamente și întreținere, adaptate nevoilor individuale ale fiecărui client."
+    },
+    "signature": "Health & Beauty Hair® – servicii create pentru cei care aleg excelența."
+  },
+  "event": {
+    "title": "Evenimente & Traininguri Internaționale",
+    "subtitle": "Health & Beauty Hair® by Cristina Codreanu",
+    "intro1": "La Health & Beauty Hair®, transformăm fiecare eveniment într-o experiență memorabilă, unde educația, eleganța și inovația se întâlnesc. Organizăm evenimente exclusiviste, traininguri premium și experiențe educaționale internaționale, dedicate profesioniștilor care își doresc să evolueze la cel mai înalt nivel.",
+    "intro2": "De la lansări de brand și masterclass-uri private, până la traininguri internaționale și evenimente de elită, echipa Health & Beauty Hair® este prezentă în orice colț al lumii, oferind educație de top și experiențe adaptate celor mai exigente standarde.",
+    "goldAccent1": "Unde educația, eleganța și inovația se întâlnesc",
+    "goldAccent2": "Educație și evenimente care călătoresc în lume",
+    "offeringsTitle": "Ce oferim:",
+    "offerings": [
+      "evenimente beauty exclusiviste, cu concept luxury și organizare impecabilă",
+      "traininguri profesionale Hair Evolution®, naționale și internaționale",
+      "masterclass-uri private și sesiuni ULTRA VIP",
+      "lansări de produse, conferințe și demonstrații live",
+      "experiențe educaționale personalizate, organizate oriunde în lume"
+    ],
+    "closing": "Fiecare eveniment Health & Beauty Hair® este creat cu atenție la detalii, rafinament și impact profesional, oferind participanților nu doar informație, ci inspirație, conexiuni valoroase și evoluție reală.",
+    "signature": "Health & Beauty Hair® – educație și evenimente care călătoresc în lume."
+  },
   "education": {
     "title": "Educație",
     "intro": "Health & Beauty Hair® redefinește educația de elită în domeniul beauty prin programele Hair Evolution® ULTRA VIP, dedicate celor ce vor să înceapă o carieră nouă sau specialiștilor care aleg excelența fără compromisuri.",

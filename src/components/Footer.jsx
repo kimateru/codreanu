@@ -80,11 +80,8 @@ const Footer = () => {
               <Link to="/contact" className="text-sm font-medium hover:text-gray-600 transition-colors">
                 {t('footer.contactUs')}
               </Link>
-              <Link to="/service" className="text-sm font-medium hover:text-gray-600 transition-colors">
-                {t('footer.trackOrder')}
-              </Link>
               <Link to="/contact" className="text-sm font-medium hover:text-gray-600 transition-colors">
-                {t('footer.storeLocator')}
+                {t('footer.storeLocator')} // address
               </Link>
             </div>
           </div>

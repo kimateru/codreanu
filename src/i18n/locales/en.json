@@ -62,6 +62,46 @@
       "product6": "Deep cleansing shampoo"
     }
   },
+  "service": {
+    "title": "Premium Services",
+    "subtitle": "Health & Beauty Hair® by Cristina Codreanu",
+    "intro": "At Health & Beauty Hair®, every service is designed as an exclusive experience, where hair health, innovation, and advanced aesthetics meet for visible and lasting results.",
+    "service1": {
+      "title": "Innovative Hair Evolution® Straightening",
+      "description": "An exclusive organic straightening method, performed with advanced technologies, adapted to all hair types and textures. It provides perfect smoothing, discipline, and shine without compromising the hair fiber structure."
+    },
+    "service2": {
+      "title": "Advanced Reconstruction Treatments",
+      "description": "Premium protocols dedicated to deep hair fiber restoration, working from the inside out. They restore elasticity, strength, and vitality to damaged, chemically treated, or fragile hair."
+    },
+    "service3": {
+      "title": "Aesthetic Trichology",
+      "description": "Specialized diagnostic and care services for the scalp and hair fiber, based on aesthetic trichology principles. Each protocol is personalized for balance, health, and lasting results."
+    },
+    "service4": {
+      "title": "Premium Personalized Consultation",
+      "description": "Professional evaluation of hair fiber structure and scalp, with exclusive treatment and maintenance recommendations, tailored to each client's individual needs."
+    },
+    "signature": "Health & Beauty Hair® – services created for those who choose excellence."
+  },
+  "event": {
+    "title": "Events & International Training",
+    "subtitle": "Health & Beauty Hair® by Cristina Codreanu",
+    "intro1": "At Health & Beauty Hair®, we transform every event into a memorable experience where education, elegance, and innovation meet. We organize exclusive events, premium training sessions, and international educational experiences dedicated to professionals who want to evolve to the highest level.",
+    "intro2": "From brand launches and private masterclasses to international training sessions and elite events, the Health & Beauty Hair® team is present in every corner of the world, offering top education and experiences tailored to the most demanding standards.",
+    "goldAccent1": "Where education, elegance, and innovation meet",
+    "goldAccent2": "Education and events that travel the world",
+    "offeringsTitle": "What we offer:",
+    "offerings": [
+      "exclusive beauty events with luxury concept and impeccable organization",
+      "professional Hair Evolution® training, national and international",
+      "private masterclasses and ULTRA VIP sessions",
+      "product launches, conferences, and live demonstrations",
+      "personalized educational experiences, organized anywhere in the world"
+    ],
+    "closing": "Every Health & Beauty Hair® event is created with attention to detail, refinement, and professional impact, offering participants not just information, but inspiration, valuable connections, and real evolution.",
+    "signature": "Health & Beauty Hair® – education and events that travel the world."
+  },
   "education": {
     "title": "Education",
     "intro": "Health & Beauty Hair® redefines elite education in the beauty industry through the Hair Evolution® ULTRA VIP programs, dedicated to those who want to start a new career or specialists who choose excellence without compromise.",
