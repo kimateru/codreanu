@@ -1,1 +1,5 @@
 export { default as Navbar } from './Navbar'
+export { default as Footer } from './Footer'
+export { default as AnimatedButton } from './AnimatedButton'
+export { default as LanguageSwitcher } from './LanguageSwitcher'
+export { default as AnimatedLogo } from './AnimatedLogo'

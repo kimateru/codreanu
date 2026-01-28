@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Home",
+    "collection": "Collection",
+    "franchise": "Franchise",
+    "maison": "Maison",
+    "education": "Education",
+    "event": "Event",
+    "service": "Service",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title1": "Package",
+      "title2": "with a degree in",
+      "title3": "philosophy",
+      "subtitle": "Minimalism has become part of Codreanu's philosophy.",
+      "description": "And this is not a tribute to fashion, but a conscious decision. We know that how a product looks is as important as how it feels.",
+      "cta": "Discover"
+    },
+    "products": {
+      "title1": "New products",
+      "title2": "for the body",
+      "description1": "BABA body and hand cream is a new product from Codreanu series of the same name, a care ritual filled with the strength and warmth of ancient traditions.",
+      "description2": "Body cream / 25th hours. Moments free from endless affairs and thoughts. An opportunity to find time for yourself in the hustle and bustle of everyday life.",
+      "cta": "Shop now"
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "aboutUs": "About Us",
+    "customerCare": "Customer Care",
+    "faq": "FAQ",
+    "disposalInstructions": "Disposal Instructions",
+    "returnPolicy": "Return Policy",
+    "promotionTerms": "Promotion Terms & Conditions",
+    "newsletter": {
+      "title1": "Let's stay",
+      "title2": "in touch."
+    },
+    "contactUs": "Contact Us",
+    "trackOrder": "Track Order",
+    "storeLocator": "Store Locator"
+  },
+  "pages": {
+    "collection": "Collection",
+    "franchise": "Franchise",
+    "maison": "Maison",
+    "education": "Education",
+    "event": "Event",
+    "service": "Service",
+    "contact": "Contact"
+  },
+  "notFound": {
+    "title": "404",
+    "description": "Page not found",
+    "cta": "Go Home"
+  }
+}

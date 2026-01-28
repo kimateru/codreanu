@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "collection": "Colecție",
+    "franchise": "Franciză",
+    "maison": "Maison",
+    "education": "Educație",
+    "event": "Eveniment",
+    "service": "Servicii",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title1": "Ambalaj",
+      "title2": "cu un grad de",
+      "title3": "filozofie",
+      "subtitle": "Minimalismul a devenit parte din filozofia Codreanu.",
+      "description": "Și aceasta nu este un tribut adus modei, ci o decizie conștientă. Știm că modul în care arată un produs este la fel de important ca și cum se simte.",
+      "cta": "Descoperă"
+    },
+    "products": {
+      "title1": "Produse noi",
+      "title2": "pentru corp",
+      "description1": "Crema de corp și mâini BABA este un produs nou din seria Codreanu cu același nume, un ritual de îngrijire plin de puterea și căldura tradițiilor străvechi.",
+      "description2": "Cremă de corp / A 25-a oră. Momente libere de afaceri și gânduri nesfârșite. O oportunitate de a găsi timp pentru tine în agitația vieții de zi cu zi.",
+      "cta": "Cumpără acum"
+    }
+  },
+  "footer": {
+    "company": "Companie",
+    "aboutUs": "Despre noi",
+    "customerCare": "Serviciu Clienți",
+    "faq": "Întrebări frecvente",
+    "disposalInstructions": "Instrucțiuni de eliminare",
+    "returnPolicy": "Politica de returnare",
+    "promotionTerms": "Termeni și condiții promoții",
+    "newsletter": {
+      "title1": "Hai să rămânem",
+      "title2": "în legătură."
+    },
+    "contactUs": "Contactează-ne",
+    "trackOrder": "Urmărește comanda",
+    "storeLocator": "Localizator magazine"
+  },
+  "pages": {
+    "collection": "Colecție",
+    "franchise": "Franciză",
+    "maison": "Maison",
+    "education": "Educație",
+    "event": "Eveniment",
+    "service": "Servicii",
+    "contact": "Contact"
+  },
+  "notFound": {
+    "title": "404",
+    "description": "Pagina nu a fost găsită",
+    "cta": "Acasă"
+  }
+}
