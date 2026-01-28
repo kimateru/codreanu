@@ -42,6 +42,41 @@
     "trackOrder": "Track Order",
     "storeLocator": "Store Locator"
   },
+  "collection": {
+    "title": "Collection",
+    "search": "Search",
+    "searchPlaceholder": "Search products...",
+    "priceFilter": "Price",
+    "showing": "Showing {{count}} products",
+    "noResults": "No products found",
+    "viewMore": "View more",
+    "needHelp": "Need help?",
+    "needHelpDescription": "Our team is here to help you find the perfect product for your needs.",
+    "callUs": "Call us",
+    "products": {
+      "product1": "Classic shampoo moisturizing",
+      "product2": "Hair conditioner",
+      "product3": "Hair mask",
+      "product4": "Repair shampoo",
+      "product5": "Volume shampoo",
+      "product6": "Deep cleansing shampoo"
+    }
+  },
+  "education": {
+    "title": "Education",
+    "intro": "Health & Beauty Hair® redefines elite education in the beauty industry through the Hair Evolution® ULTRA VIP programs, dedicated to those who want to start a new career or specialists who choose excellence without compromise.",
+    "coursesDescription": "The courses harmoniously combine innovative hair straightening, advanced reconstruction treatments, and aesthetic trichology, offering a premium educational experience built on science, technology, and visible results.",
+    "ultraVipTitle": "The ULTRA VIP Experience includes:",
+    "features": [
+      "exclusive Hair Evolution® organic straightening methods, adapted to all hair textures",
+      "advanced deep hair fiber reconstruction protocols",
+      "professional scalp and hair fiber diagnosis through aesthetic trichology principles",
+      "luxury techniques, immediately applicable in high-end salons",
+      "premium strategic positioning and increasing the value of services offered"
+    ],
+    "closingStatement": "Health & Beauty Hair® doesn't offer simple courses, but trains professional elite, setting new standards in international beauty education.",
+    "signature": "Health & Beauty Hair® by Cristina Codreanu – where hair health becomes art."
+  },
   "pages": {
     "collection": "Collection",
     "franchise": "Franchise",
@@ -50,6 +85,12 @@
     "event": "Event",
     "service": "Service",
     "contact": "Contact"
+  },
+  "productDetail": {
+    "notFound": "Product not found",
+    "backToCollection": "Back to collection",
+    "description": "A premium hair care product designed to nourish and protect your hair. Made with natural ingredients for the best results.",
+    "addToCart": "Add to cart"
   },
   "notFound": {
     "title": "404",

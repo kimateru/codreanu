@@ -42,6 +42,41 @@
     "trackOrder": "Urmărește comanda",
     "storeLocator": "Localizator magazine"
   },
+  "collection": {
+    "title": "Colecție",
+    "search": "Căutare",
+    "searchPlaceholder": "Caută produse...",
+    "priceFilter": "Preț",
+    "showing": "Se afișează {{count}} produse",
+    "noResults": "Nu s-au găsit produse",
+    "viewMore": "Vezi mai mult",
+    "needHelp": "Ai nevoie de ajutor?",
+    "needHelpDescription": "Echipa noastră este aici pentru a te ajuta să găsești produsul perfect pentru nevoile tale.",
+    "callUs": "Sună-ne",
+    "products": {
+      "product1": "Șampon clasic hidratant",
+      "product2": "Balsam de păr",
+      "product3": "Mască de păr",
+      "product4": "Șampon reparator",
+      "product5": "Șampon pentru volum",
+      "product6": "Șampon pentru curățare profundă"
+    }
+  },
+  "education": {
+    "title": "Educație",
+    "intro": "Health & Beauty Hair® redefinește educația de elită în domeniul beauty prin programele Hair Evolution® ULTRA VIP, dedicate celor ce vor să înceapă o carieră nouă sau specialiștilor care aleg excelența fără compromisuri.",
+    "coursesDescription": "Cursurile îmbină armonios îndreptarea inovativă a părului, tratamentele avansate de reconstrucție și tricologia estetică, oferind o experiență educațională premium, construită pe știință, tehnologie și rezultate vizibile.",
+    "ultraVipTitle": "Experiența ULTRA VIP include:",
+    "features": [
+      "metode exclusive Hair Evolution® de îndreptare organică, adaptate tuturor texturilor de păr",
+      "protocoale avansate de reconstrucție profundă a firului de păr",
+      "diagnostic profesional al scalpului și firului prin principii de tricologie estetică",
+      "tehnici luxury, aplicabile imediat în saloane high-end",
+      "poziționare strategică premium și creșterea valorii serviciilor oferite"
+    ],
+    "closingStatement": "Health & Beauty Hair® nu oferă simple cursuri, ci formează elită profesională, stabilind noi standarde în educația beauty internațională.",
+    "signature": "Health & Beauty Hair® by Cristina Codreanu – acolo unde sănătatea părului devine artă."
+  },
   "pages": {
     "collection": "Colecție",
     "franchise": "Franciză",
@@ -50,6 +85,12 @@
     "event": "Eveniment",
     "service": "Servicii",
     "contact": "Contact"
+  },
+  "productDetail": {
+    "notFound": "Produsul nu a fost găsit",
+    "backToCollection": "Înapoi la colecție",
+    "description": "Un produs premium pentru îngrijirea părului, conceput pentru a hrăni și proteja părul tău. Realizat cu ingrediente naturale pentru cele mai bune rezultate.",
+    "addToCart": "Adaugă în coș"
   },
   "notFound": {
     "title": "404",

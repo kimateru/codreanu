@@ -3,6 +3,7 @@ import { Navbar } from './components'
 import {
   Home,
   Collection,
+  ProductDetail,
   Franchise,
   Maison,
   Education,
@@ -33,6 +34,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/collection" element={<Collection />} />
+          <Route path="/collection/:id" element={<ProductDetail />} />
           <Route path="/franchise" element={<Franchise />} />
           <Route path="/maison" element={<Maison />} />
           <Route path="/education" element={<Education />} />
@@ -45,5 +47,9 @@ const App = () => {
     </Router>
   )
 }
-
+// home 
+// collection
+// event
+// service
+// events
 export default App

@@ -1,5 +1,6 @@
 export { default as Home } from './Home'
 export { default as Collection } from './Collection'
+export { default as ProductDetail } from './ProductDetail'
 export { default as Franchise } from './Franchise'
 export { default as Maison } from './Maison'
 export { default as Education } from './Education'
