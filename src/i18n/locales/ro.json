@@ -117,6 +117,12 @@
     "closingStatement": "Health & Beauty Hair® nu oferă simple cursuri, ci formează elită profesională, stabilind noi standarde în educația beauty internațională.",
     "signature": "Health & Beauty Hair® by Cristina Codreanu – acolo unde sănătatea părului devine artă."
   },
+  "contact": {
+    "title": "Contact",
+    "addressLabel": "Adresă",
+    "phoneLabel": "Telefon",
+    "emailLabel": "Email"
+  },
   "pages": {
     "collection": "Colecție",
     "franchise": "Franciză",
