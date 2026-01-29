@@ -52,4 +52,6 @@ const App = () => {
 // event
 // service
 // events
+
+// remains: contact,404,maison,franchise
 export default App
